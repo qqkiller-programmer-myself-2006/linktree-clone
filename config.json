@@ -1,0 +1,68 @@
+{
+  "profile": {
+    "name": "IQ — ธีรภัทร เตโช",
+    "nameEn": "IQ — Theeraphat Techo",
+    "role": "Full Stack Developer",
+    "roleEn": "Full Stack Developer",
+    "bio": "รับทำเว็บไซต์ แอปมือถือ และระบบ custom ทุกประเภท",
+    "bioEn": "Web, Mobile & Custom System Development",
+    "avatar": "/avatar.jpg",
+    "verified": true,
+    "fastwork": "https://fastwork.co/user/YOUR_FASTWORK"
+  },
+  "theme": {
+    "background": "#080815",
+    "accent": "#6366f1",
+    "accentSecondary": "#8b5cf6",
+    "cardBg": "rgba(255,255,255,0.04)",
+    "cardBorder": "rgba(255,255,255,0.07)"
+  },
+  "links": [
+    {
+      "id": "fastwork",
+      "labelTh": "รับงาน Fastwork",
+      "labelEn": "Hire me on Fastwork",
+      "url": "https://fastwork.co/user/YOUR_FASTWORK",
+      "emoji": "💼",
+      "color": "#f59e0b",
+      "badge": "Open",
+      "featured": true
+    },
+    {
+      "id": "github",
+      "labelTh": "GitHub — ดูผลงาน",
+      "labelEn": "GitHub — View my work",
+      "url": "https://github.com/qqkiller-programmer-myself-2006",
+      "emoji": "🐙",
+      "color": "#94a3b8",
+      "badge": null,
+      "featured": false
+    },
+    {
+      "id": "portfolio",
+      "labelTh": "Portfolio Website",
+      "labelEn": "Portfolio Website",
+      "url": "https://YOUR_PORTFOLIO.vercel.app",
+      "emoji": "🌐",
+      "color": "#6366f1",
+      "badge": null,
+      "featured": false
+    },
+    {
+      "id": "line",
+      "labelTh": "LINE: @YOUR_LINE_ID",
+      "labelEn": "LINE: @YOUR_LINE_ID",
+      "url": "https://line.me/ti/p/YOUR_LINE_ID",
+      "emoji": "💬",
+      "color": "#10b981",
+      "badge": null,
+      "featured": false
+    }
+  ],
+  "services": [
+    { "icon": "🌐", "labelTh": "Landing Page", "labelEn": "Landing Page", "price": "1,500฿+" },
+    { "icon": "🍽️", "labelTh": "QR Menu",      "labelEn": "QR Menu",      "price": "800฿+"   },
+    { "icon": "📱", "labelTh": "Mobile App",   "labelEn": "Mobile App",   "price": "5,000฿+" },
+    { "icon": "🧾", "labelTh": "Invoice",       "labelEn": "Invoice",      "price": "2,000฿+" }
+  ]
+}
