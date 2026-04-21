@@ -8,7 +8,7 @@
     "bioEn": "Web, Mobile & Custom System Development",
     "avatar": "/avatar.jpg",
     "verified": true,
-    "fastwork": "https://fastwork.co/user/YOUR_FASTWORK"
+    "fastwork": "https://fastwork.co/user/qqkiller-programmer-myself-2006"
   },
   "theme": {
     "background": "#080815",
@@ -22,7 +22,7 @@
       "id": "fastwork",
       "labelTh": "รับงาน Fastwork",
       "labelEn": "Hire me on Fastwork",
-      "url": "https://fastwork.co/user/YOUR_FASTWORK",
+      "url": "https://fastwork.co/user/qqkiller-programmer-myself-2006",
       "emoji": "💼",
       "color": "#f59e0b",
       "badge": "Open",
@@ -42,7 +42,7 @@
       "id": "portfolio",
       "labelTh": "Portfolio Website",
       "labelEn": "Portfolio Website",
-      "url": "https://YOUR_PORTFOLIO.vercel.app",
+      "url": "https://portfolio-site-qc3r56xv2.vercel.app",
       "emoji": "🌐",
       "color": "#6366f1",
       "badge": null,
@@ -50,11 +50,21 @@
     },
     {
       "id": "line",
-      "labelTh": "LINE: @YOUR_LINE_ID",
-      "labelEn": "LINE: @YOUR_LINE_ID",
-      "url": "https://line.me/ti/p/YOUR_LINE_ID",
+      "labelTh": "LINE: kcygamer",
+      "labelEn": "LINE: kcygamer",
+      "url": "https://line.me/ti/p/kcygamer",
       "emoji": "💬",
       "color": "#10b981",
+      "badge": null,
+      "featured": false
+    },
+    {
+      "id": "phone",
+      "labelTh": "โทร: 090-980-9420",
+      "labelEn": "Tel: 090-980-9420",
+      "url": "tel:0909809420",
+      "emoji": "📞",
+      "color": "#22d3ee",
       "badge": null,
       "featured": false
     }
